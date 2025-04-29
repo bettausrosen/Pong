@@ -13,7 +13,7 @@ Pong is a classic arcade game that simulates table tennis. This project provides
      - Move Up: Press the up arrow key (↑)
      - Move Down: Press the down arrow key (↓)
 3. **Objective**: The objective of the game is to score points by hitting the ball past your opponent's paddle.
-4. **Scoring**: 
+4. **Scoring**:
    - Each time the ball passes the opponent's paddle and hits the wall behind, the opponent loses a point.
    - The first player to reach 10 points wins the game.
 5. **Game Over**: When one player reaches 10 points, the game ends and a winner is declared.
